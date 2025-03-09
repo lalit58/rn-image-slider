@@ -1,5 +1,5 @@
 {
-  "name": "rn-image-slider",
+  "name": "rn-slider-image",
   "version": "1.0.0",
   "description": "A customizable and infinite image slider for React Native.",
   "main": "index.js",
