@@ -1,0 +1,29 @@
+{
+  "name": "rn-image-slider",
+  "version": "1.0.0",
+  "description": "A customizable and infinite image slider for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "image-slider",
+    "carousel",
+    "infinite-scroll"
+  ],
+  "author": {
+    "name": "Lalit Soren",
+    "email": "lalitsoren58@gmail.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-native": "^0.68.0 || ^0.69.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lalit58/rn-image-slider.git"
+  },
+  "homepage": "https://github.com/lalit58/rn-image-slider.git#readme"
+}
